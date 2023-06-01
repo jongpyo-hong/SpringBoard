@@ -7,4 +7,20 @@
 
 ### Log
 - 스프링부트 개발 환경 설정
+    - 의존성(spring initializr)
+        - Spring Boot Devtools
+        - Lombok
+        - Spring Web
+        - Thymeleaf
+        - Spring Security
+        - Spring Data JPA
+        - Validation
+        - H2 Database
+    
+    - 의존성(maven repository)
+        - ojdbc8
+        - querydsl - jpa
+        - querydsl - apt
+            - plugin 
+    
 - 타임리프 설정
